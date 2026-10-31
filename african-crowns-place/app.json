@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "African Crowns Place",
+    "slug": "african-crowns-place",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "africancrownsplace",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF8F0"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8F0"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
